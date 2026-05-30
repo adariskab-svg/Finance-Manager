@@ -1,0 +1,26 @@
+{
+  "transactions": [],
+  "users": [
+    {
+      "username": "steph",
+      "password": "tyty55",
+      "name": "huppp",
+      "email": null
+    },
+    {
+      "username": "Stephane",
+      "password": "Stephane",
+      "name": "Stephane",
+      "email": null
+    },
+    {
+      "username": "ADARIS",
+      "password": "ADARIS",
+      "name": "JOHAN",
+      "email": "ADAD"
+    }
+  ],
+  "credentials": {},
+  "monthly_budget": 0.0,
+  "alert_threshold": 75.0
+}
